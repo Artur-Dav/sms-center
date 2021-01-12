@@ -1,0 +1,36 @@
+@font-face {
+    font-family: '"Helvetica Neue" Book';
+    src: url('CircularStd-Book.eot');
+    src: url('CircularStd-Book.eot?#iefix') format('embedded-opentype'),
+        url('CircularStd-Book.woff2') format('woff2'),
+        url('CircularStd-Book.woff') format('woff'),
+        url('CircularStd-Book.ttf') format('truetype'),
+        url('CircularStd-Book.svg#CircularStd-Book') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: '"Helvetica Neue"';
+    src: url('CircularStd-Bold.eot');
+    src: url('CircularStd-Bold.eot?#iefix') format('embedded-opentype'),
+        url('CircularStd-Bold.woff2') format('woff2'),
+        url('CircularStd-Bold.woff') format('woff'),
+        url('CircularStd-Bold.ttf') format('truetype'),
+        url('CircularStd-Bold.svg#CircularStd-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: '"Helvetica Neue"';
+    src: url('CircularStd-Bold_1.eot');
+    src: url('CircularStd-Bold_1.eot?#iefix') format('embedded-opentype'),
+        url('CircularStd-Bold_1.woff2') format('woff2'),
+        url('CircularStd-Bold_1.woff') format('woff'),
+        url('CircularStd-Bold_1.ttf') format('truetype'),
+        url('CircularStd-Bold_1.svg#CircularStd-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+

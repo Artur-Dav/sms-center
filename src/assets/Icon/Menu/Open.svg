@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon / Menu / Open</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M9.82106781,14.25 L23,14.25 L23,16.25 L9.84421387,16.25 L11.6568542,18.0626404 L10.2426407,19.4768539 L7.41842728,16.6526405 L7.41421356,16.6568542 L7.00735931,16.25 L7,16.25 L7,16.2426407 L6,15.2426407 L6.00421371,15.238427 L6,15.2342133 L7.41421356,13.8199997 L7.41842728,13.8242134 L10.2426407,11 L11.6568542,12.4142136 L9.82106781,14.25 Z" id="path-1"></path>
+    </defs>
+    <g id="Icon-/-Menu-/-Open" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Combined-Shape" fill="#D8D8D8" transform="translate(14.500000, 15.238427) scale(-1, 1) translate(-14.500000, -15.238427) " xlink:href="#path-1"></use>
+        <g id="Color-/-Dark-4" mask="url(#mask-2)" fill="#55616E">
+            <rect id="Rectangle" x="0" y="0" width="30" height="30"></rect>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon / Arrow / Down</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M14.6619803,15.2477667 L18.909747,11 L20.3239606,12.4142136 L14.6671063,18.0710678 L14.6619803,18.0659418 L14.6568542,18.0710678 L9,12.4142136 L10.4142136,11 L14.6619803,15.2477667 Z" id="path-1"></path>
+    </defs>
+    <g id="Icon-/-Arrow-/-Down" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Combined-Shape" fill="#D8D8D8" xlink:href="#path-1"></use>
+        <g id="Color-/-Dark-4" mask="url(#mask-2)" fill="#55616E">
+            <rect id="Rectangle" x="0" y="0" width="30" height="30"></rect>
+        </g>
+    </g>
+</svg>
